@@ -1,0 +1,7 @@
+Python 
+Nmap
+Scapy
+
+
+React native
+javascript
