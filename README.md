@@ -1,18 +1,65 @@
 # Device-Scanner-On-Network-Using-Raspberry-Pi
 
 
+<div align='centre'>
+
+[![](https://img.shields.io/badge/OS-Raspberry PI-red?style=for-the-badge&logo=raspberrypi)](mongodb.com "MongoDB")
+[![](https://img.shields.io/badge/Made_with-Pyhton-blue?style=for-the-badge&logo=python)](https://reactjs.org/docs/getting-started.html)
+[![](https://img.shields.io/badge/Made_with-Nmap-blue?style=for-the-badge&logo=nmap)](https://reactjs.org/docs/getting-started.html)
+[![](https://img.shields.io/badge/Made_with-React Native-yellow?style=for-the-badge&logo=reactnative)](https://nodejs.org/en/)
+
+<br>
+
+</div>
 
 
-1)clone this project in your local computer.
+## About
 
-2)Create firebase account for realtime data base and accordingly select a real time database.
+An attempt to create a device which can scan all the devices connected on the same network and it will show the Device Name, MAC Address and IP address to the owner via app.
+An owner can allow or block this device from their network from anywhere by using this app.
 
-3)then write the code.py in raspberry pi operating system.
+## Build Setup
 
-4)run this code in raspberry pi by using --python code.py
+To run this project succesfully you have to follow some important steps after succesfully cloning this repository into your local device.
 
-5)then it will show scan data on app.
+1)React Native Setup
 
-6)For developing an app intialize the react native project and then copy app.js file into your app.js file.
+Open [React Native Setup](https://reactnative.dev/docs/environment-setup) to view it in the browser.
 
-It has lots of configuration in between.
+2)React Native Setup with Firebase
+
+Open [React Native Setup with Firebase](https://rnfirebase.io/) to view it in the browser.
+
+2)Python with firebase
+
+Open [Python with Firebase](https://pypi.org/project/python-firebase/) to view it in the browser.
+
+After Successfully setup of environment run python code.py from Raspberry PI OS to see the result:
+
+### `python code.py`
+
+In order to see the output in app run below command from another terminal to build the app and to show results:
+
+Run these both command concurrently:
+### `npm run android`   
+
+
+
+### Requirements
+
+Nmap to scan the devices and find their details like device name, IP and MAC address.
+
+
+
+## Add-Ons
+
+- [X] Scanning data and send to firebase
+- [X] fetch from firebase and show data via app to the user
+- [ ] Adding block and allow options with functionality.
+- [ ] Improving app UI
+- [ ] Implementing notification whenever new device connected to that network
+
+## Deployment
+
+In progress
+
