@@ -3,10 +3,10 @@
 
 <div align='centre'>
 
-[![](https://img.shields.io/badge/OS-Raspberry PI-red?style=for-the-badge&logo=raspberrypi)](mongodb.com "MongoDB")
-[![](https://img.shields.io/badge/Made_with-Pyhton-blue?style=for-the-badge&logo=python)](https://reactjs.org/docs/getting-started.html)
-[![](https://img.shields.io/badge/Made_with-Nmap-blue?style=for-the-badge&logo=nmap)](https://reactjs.org/docs/getting-started.html)
-[![](https://img.shields.io/badge/Made_with-React Native-yellow?style=for-the-badge&logo=reactnative)](https://nodejs.org/en/)
+[![](https://img.shields.io/badge/OS-RaspberryPI-red?style=for-the-badge&logo=raspberrypi)](https://www.raspberrypi.org/)
+[![](https://img.shields.io/badge/Made_with-Python-blue?style=for-the-badge&logo=python)](https://docs.python.org/3/)
+[![](https://img.shields.io/badge/Made_with-Nmap-blue?style=for-the-badge&logo=nmap)](https://nmap.org/book/man.html)
+[![](https://img.shields.io/badge/Made_with-ReactNative-yellow?style=for-the-badge&logo=reactnative)](https://reactnative.dev/docs/environment-setup)
 
 <br>
 
